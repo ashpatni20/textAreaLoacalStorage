@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-color: #1d1d1d;
+}
+h2{
+    color: thistle;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    gap: 18px;
+}
+textarea{
+    font-size: 2rem;
+    font-weight: bold;
+
+}
+button{
+    font-size: 2rem;
+    background-color: thistle;
+    font-weight: bold;
+}
